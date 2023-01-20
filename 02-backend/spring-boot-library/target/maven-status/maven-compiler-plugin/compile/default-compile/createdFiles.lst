@@ -1,0 +1,4 @@
+com\fullstackapp\springbootlibrary\SpringBootLibraryApplication.class
+com\fullstackapp\springbootlibrary\config\MyDataRestConfig.class
+com\fullstackapp\springbootlibrary\dao\BookRepository.class
+com\fullstackapp\springbootlibrary\entity\Book.class
