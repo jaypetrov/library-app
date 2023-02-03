@@ -20,10 +20,7 @@ export const Heros = () => {
           </div>
         </div>
         <div className="row g-0">
-          <div
-            className="col-4 col-md-4 container d-flex 
-                            justify-content-center align-items-center"
-          >
+          <div className="col-4 col-md-4 container d-flex justify-content-center align-items-center">
             <div className="ml-2">
               <h1>Our collection is always changing!</h1>
               <p className="lead">
